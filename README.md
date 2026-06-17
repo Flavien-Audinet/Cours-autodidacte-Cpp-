@@ -1,4 +1,4 @@
-# Cours-autodidacte-Cpp-
+# Cours-autodidacte-Cpp
 Exercices des cours de C++ sur internet
 
-Fait entre septembre et decembre 2020 en autodidacte
+Fait entre septembre et décembre 2020 en autodidacte
